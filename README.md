@@ -1,6 +1,6 @@
 # JWT-Auth-NodeJS
 
-Node.js authentication and authorization using with JWT using PostgreSQL.
+Node.js authentication and authorization with JWT using PostgreSQL.
 
 ## Instructions
 ``` bash
